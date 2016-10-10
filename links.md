@@ -1,6 +1,6 @@
 # Links
 
-h1. Meetings and slides leading up to Cosmic Vision Dark Energy papers:
+## Meetings and slides leading up to Cosmic Vision Dark Energy papers:
 
 Brookhaven, October 1, 2015. [Agenda and slides](https://indico.bnl.gov/categoryDisplay.py?categId=124)
 
@@ -8,12 +8,12 @@ Fermilab, November 10, 2015. [Agenda and slides](https://indico.fnal.gov/confere
 
 SLAC, November 13, 2015. [Agenda and slides](https://indico.fnal.gov/conferenceDisplay.py?confId=10842)
 
-h1. CVDE Papers:
+## CVDE Papers:
 
 [Science](https://arxiv.org/pdf/1604.07626.pdf)
 
 [Technology](https://arxiv.org/abs/1604.07821)
 
-h1. Community Meetings
+## Community Meetings
 
 [Future Cosmic Surveys Meeting](https://kicp-workshops.uchicago.edu/FutureSurveys/index.php)
